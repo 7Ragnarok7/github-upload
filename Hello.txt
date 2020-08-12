@@ -1,3 +1,7 @@
 Hi there.
 Hello
 My new line
+
+func New_feature():
+	dhfdfb
+	jsdbsd
